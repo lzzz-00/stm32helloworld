@@ -5,12 +5,7 @@
 # Task
 - Connect a 4-bit DIP switch to the STM32. (The 4-bit switch represent a value from 0000 to 1111)
 - Write a program to read the DIP switch value and display on terminal together with Hello World
-- Update the display only when the switch value change (example at below)
-
-** Hello World
-** 0000
-** Hello World
-** 1000
+- Update the display only when the switch value change 
 
 # Group 2
 - Zhang Zhen
