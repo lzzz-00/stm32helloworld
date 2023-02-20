@@ -27,6 +27,7 @@
 7) Read the state of DIP switch using HAL_GPIO_ReadPin() 
 8) If the DIP switch reading is not same as before, update the display
 9) Configure the PuTTy (connection type -> serial, port -> 18, baudrate -> 115200)
+10) The running result is displayed on PuTTy terminal as showned in the terminal.png attached above
 
 # References
 - https://microcontrollerslab.com/stm32-blue-pill-uart-interrupt-stm32cubeide/
